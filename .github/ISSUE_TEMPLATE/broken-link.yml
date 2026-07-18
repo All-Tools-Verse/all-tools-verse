@@ -1,0 +1,42 @@
+name: Broken link or incorrect listing
+description: Report a broken URL, wrong title or category mismatch in the directory.
+title: "[Directory]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping keep the directory accurate. Do not include passwords, private files or sensitive security details.
+  - type: input
+    id: url
+    attributes:
+      label: Affected URL
+      placeholder: https://alltoolsverse.com/tools/example/
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: Problem type
+      options:
+        - Broken or redirected link
+        - Incorrect title
+        - Incorrect category
+        - Duplicate entry
+        - Other directory problem
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Explain what is wrong and what you expected to find.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Confirmation
+      options:
+        - label: I searched existing issues and did not find the same report.
+          required: true

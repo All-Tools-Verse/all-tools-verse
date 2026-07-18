@@ -1,0 +1,43 @@
+name: Suggest a tool
+description: Suggest a practical tool for possible inclusion in the All Tools Verse library.
+title: "[Tool suggestion]: "
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: This repository catalogs All Tools Verse tools. Suggestions are reviewed for usefulness and fit; submission does not guarantee publication.
+  - type: input
+    id: name
+    attributes:
+      label: Suggested tool name
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would it solve?
+      description: Describe the task and who would benefit from it.
+    validations:
+      required: true
+  - type: textarea
+    id: input-output
+    attributes:
+      label: Expected input and output
+      description: Give one concrete example.
+    validations:
+      required: true
+  - type: input
+    id: category
+    attributes:
+      label: Suggested category
+      placeholder: Developer, Image, Text, Time, etc.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Confirmation
+      options:
+        - label: I searched the live library and did not find the same tool.
+          required: true
+        - label: This is a genuine feature suggestion, not a paid placement or backlink request.
+          required: true

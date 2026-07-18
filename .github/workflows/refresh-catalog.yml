@@ -1,0 +1,38 @@
+name: Refresh live catalog
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 7 * * 1"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: refresh-live-catalog
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+      - name: Set up Node.js
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+        with:
+          node-version: 20
+      - name: Regenerate catalog
+        run: npm run sync
+      - name: Validate regenerated files
+        run: npm run validate
+      - name: Open catalog refresh pull request
+        uses: peter-evans/create-pull-request@5f6978faf089d4d20b00c7766989d076bb2fc7f1 # v8.1.1
+        with:
+          commit-message: "chore: refresh live tool catalog"
+          title: "Refresh live All Tools Verse catalog"
+          body: "Automated catalog refresh generated from the public All Tools Verse API. Please review counts and category changes before merging."
+          branch: automation/refresh-tool-catalog
+          delete-branch: true

@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: All Tools Verse website
+    url: https://alltoolsverse.com/
+    about: Visit the official website and browse the full tool library.
+  - name: Security report
+    url: https://github.com/all-tools-verse/all-tools-verse/security/policy
+    about: Review the private reporting instructions before sharing sensitive details.

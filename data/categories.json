@@ -1,0 +1,214 @@
+{
+  "generatedAt": "2026-07-18",
+  "source": "https://alltoolsverse.com/wp-json/wp/v2/tool_category",
+  "totalCategories": 23,
+  "categories": [
+    {
+      "id": 22,
+      "name": "ASCII",
+      "slug": "ascii",
+      "apiCount": 31,
+      "url": "https://alltoolsverse.com/tool-category/ascii/",
+      "parent": 0,
+      "generatedCount": 29
+    },
+    {
+      "id": 6,
+      "name": "Binary",
+      "slug": "binary",
+      "apiCount": 48,
+      "url": "https://alltoolsverse.com/tool-category/binary/",
+      "parent": 0,
+      "generatedCount": 43
+    },
+    {
+      "id": 70,
+      "name": "Conversion",
+      "slug": "conversion",
+      "apiCount": 15,
+      "url": "https://alltoolsverse.com/tool-category/conversion/",
+      "parent": 0,
+      "generatedCount": 15
+    },
+    {
+      "id": 10,
+      "name": "CSV",
+      "slug": "csv",
+      "apiCount": 26,
+      "url": "https://alltoolsverse.com/tool-category/csv/",
+      "parent": 0,
+      "generatedCount": 26
+    },
+    {
+      "id": 17,
+      "name": "Developer",
+      "slug": "developer",
+      "apiCount": 94,
+      "url": "https://alltoolsverse.com/tool-category/developer/",
+      "parent": 0,
+      "generatedCount": 94
+    },
+    {
+      "id": 20,
+      "name": "Document",
+      "slug": "document",
+      "apiCount": 51,
+      "url": "https://alltoolsverse.com/tool-category/document/",
+      "parent": 0,
+      "generatedCount": 51
+    },
+    {
+      "id": 68,
+      "name": "Financial",
+      "slug": "financial",
+      "apiCount": 10,
+      "url": "https://alltoolsverse.com/tool-category/financial/",
+      "parent": 0,
+      "generatedCount": 10
+    },
+    {
+      "id": 83,
+      "name": "Fractals",
+      "slug": "fractals",
+      "apiCount": 29,
+      "url": "https://alltoolsverse.com/tool-category/fractals/",
+      "parent": 0,
+      "generatedCount": 29
+    },
+    {
+      "id": 3,
+      "name": "Generators",
+      "slug": "generators",
+      "apiCount": 36,
+      "url": "https://alltoolsverse.com/tool-category/generators/",
+      "parent": 0,
+      "generatedCount": 36
+    },
+    {
+      "id": 69,
+      "name": "Health",
+      "slug": "health",
+      "apiCount": 5,
+      "url": "https://alltoolsverse.com/tool-category/health/",
+      "parent": 0,
+      "generatedCount": 5
+    },
+    {
+      "id": 12,
+      "name": "Hex",
+      "slug": "hex",
+      "apiCount": 37,
+      "url": "https://alltoolsverse.com/tool-category/hex/",
+      "parent": 0,
+      "generatedCount": 36
+    },
+    {
+      "id": 9,
+      "name": "Image",
+      "slug": "image",
+      "apiCount": 139,
+      "url": "https://alltoolsverse.com/tool-category/image/",
+      "parent": 0,
+      "generatedCount": 139
+    },
+    {
+      "id": 18,
+      "name": "JSON",
+      "slug": "json",
+      "apiCount": 24,
+      "url": "https://alltoolsverse.com/tool-category/json/",
+      "parent": 0,
+      "generatedCount": 24
+    },
+    {
+      "id": 16,
+      "name": "Marketing",
+      "slug": "marketing",
+      "apiCount": 14,
+      "url": "https://alltoolsverse.com/tool-category/marketing/",
+      "parent": 0,
+      "generatedCount": 14
+    },
+    {
+      "id": 21,
+      "name": "Math",
+      "slug": "math",
+      "apiCount": 45,
+      "url": "https://alltoolsverse.com/tool-category/math/",
+      "parent": 0,
+      "generatedCount": 45
+    },
+    {
+      "id": 8,
+      "name": "Number",
+      "slug": "number",
+      "apiCount": 84,
+      "url": "https://alltoolsverse.com/tool-category/number/",
+      "parent": 0,
+      "generatedCount": 84
+    },
+    {
+      "id": 15,
+      "name": "Security",
+      "slug": "security",
+      "apiCount": 15,
+      "url": "https://alltoolsverse.com/tool-category/security/",
+      "parent": 0,
+      "generatedCount": 15
+    },
+    {
+      "id": 19,
+      "name": "SEO",
+      "slug": "seo",
+      "apiCount": 28,
+      "url": "https://alltoolsverse.com/tool-category/seo/",
+      "parent": 0,
+      "generatedCount": 28
+    },
+    {
+      "id": 13,
+      "name": "Text",
+      "slug": "text",
+      "apiCount": 84,
+      "url": "https://alltoolsverse.com/tool-category/text/",
+      "parent": 0,
+      "generatedCount": 84
+    },
+    {
+      "id": 11,
+      "name": "Time & Date",
+      "slug": "time",
+      "apiCount": 95,
+      "url": "https://alltoolsverse.com/tool-category/time/",
+      "parent": 0,
+      "generatedCount": 95
+    },
+    {
+      "id": 7,
+      "name": "Unicode",
+      "slug": "unicode",
+      "apiCount": 42,
+      "url": "https://alltoolsverse.com/tool-category/unicode/",
+      "parent": 0,
+      "generatedCount": 42
+    },
+    {
+      "id": 23,
+      "name": "UTF-8",
+      "slug": "utf8",
+      "apiCount": 33,
+      "url": "https://alltoolsverse.com/tool-category/utf8/",
+      "parent": 0,
+      "generatedCount": 31
+    },
+    {
+      "id": 14,
+      "name": "WebP",
+      "slug": "webp",
+      "apiCount": 28,
+      "url": "https://alltoolsverse.com/tool-category/webp/",
+      "parent": 0,
+      "generatedCount": 28
+    }
+  ]
+}
