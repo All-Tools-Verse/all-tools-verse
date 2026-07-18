@@ -1,0 +1,16 @@
+{
+  "name": "all-tools-verse-directory",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Generated public directory of the tools available at All Tools Verse.",
+  "type": "module",
+  "license": "CC0-1.0",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "sync": "node scripts/sync-tools.mjs",
+    "validate": "node scripts/validate-repo.mjs",
+    "check": "npm run validate"
+  }
+}
