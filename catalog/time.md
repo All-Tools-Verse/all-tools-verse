@@ -4,7 +4,7 @@
 
 [Browse this category on All Tools Verse](https://alltoolsverse.com/tool-category/time/) · [Back to the category directory](README.md)
 
-> Generated from the live All Tools Verse API on 2026-07-18. Do not edit this list manually.
+> Generated from the live All Tools Verse API on 2026-07-20. Do not edit this list manually.
 
 - [Add Days to Date Online](https://alltoolsverse.com/tools/increment-calendar-date/)
 - [Add Fuzziness to Clock Time Generator](https://alltoolsverse.com/tools/add-fuzziness-to-clock-time/)

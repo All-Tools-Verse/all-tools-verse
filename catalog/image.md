@@ -4,7 +4,7 @@
 
 [Browse this category on All Tools Verse](https://alltoolsverse.com/tool-category/image/) · [Back to the category directory](README.md)
 
-> Generated from the live All Tools Verse API on 2026-07-18. Do not edit this list manually.
+> Generated from the live All Tools Verse API on 2026-07-20. Do not edit this list manually.
 
 - [Add Background to Image](https://alltoolsverse.com/tools/add-image-background/)
 - [Add Background to Screenshot](https://alltoolsverse.com/tools/add-background-to-screenshot/)

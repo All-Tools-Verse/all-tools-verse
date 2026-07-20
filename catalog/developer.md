@@ -1,11 +1,12 @@
 # Developer tools
 
-94 free browser-based tools in the Developer category.
+97 free browser-based tools in the Developer category.
 
 [Browse this category on All Tools Verse](https://alltoolsverse.com/tool-category/developer/) · [Back to the category directory](README.md)
 
-> Generated from the live All Tools Verse API on 2026-07-18. Do not edit this list manually.
+> Generated from the live All Tools Verse API on 2026-07-20. Do not edit this list manually.
 
+- [AI Token Counter](https://alltoolsverse.com/tools/ai-token-counter/)
 - [Android AssetLinks JSON Generator - App Links](https://alltoolsverse.com/tools/android-assetlinks-json-generator/)
 - [Base32 Encoder/Decoder](https://alltoolsverse.com/tools/base32-encoder/)
 - [Base58 Encoder/Decoder](https://alltoolsverse.com/tools/base58-encoder/)
@@ -77,6 +78,7 @@
 - [JSON to TypeScript Interfaces](https://alltoolsverse.com/tools/json-to-typescript/)
 - [JSON Viewer (Tree)](https://alltoolsverse.com/tools/json-viewer/)
 - [JSONPath Tester](https://alltoolsverse.com/tools/json-path-tester/)
+- [LLM API Pricing Comparison](https://alltoolsverse.com/tools/llm-pricing-comparison/)
 - [MAC Address Generator](https://alltoolsverse.com/tools/mac-address-generator/)
 - [Nginx Config Generator](https://alltoolsverse.com/tools/nginx-config-generator/)
 - [Online Stopwatch](https://alltoolsverse.com/tools/stopwatch/)
@@ -95,6 +97,7 @@
 - [SQL Minifier](https://alltoolsverse.com/tools/sql-minifier/)
 - [SQL to JSON Converter](https://alltoolsverse.com/tools/sql-to-json/)
 - [Tailwind to CSS Converter](https://alltoolsverse.com/tools/tailwind-to-css/)
+- [Tokens to Words Converter](https://alltoolsverse.com/tools/tokens-to-words/)
 - [TOML to JSON Converter](https://alltoolsverse.com/tools/toml-to-json/)
 - [URL Encode and Decode](https://alltoolsverse.com/tools/url-encode-decode/)
 - [URL Parser](https://alltoolsverse.com/tools/url-parser/)

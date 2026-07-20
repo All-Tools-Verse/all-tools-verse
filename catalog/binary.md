@@ -4,7 +4,7 @@
 
 [Browse this category on All Tools Verse](https://alltoolsverse.com/tool-category/binary/) · [Back to the category directory](README.md)
 
-> Generated from the live All Tools Verse API on 2026-07-18. Do not edit this list manually.
+> Generated from the live All Tools Verse API on 2026-07-20. Do not edit this list manually.
 
 - [BCD to Decimal Converter](https://alltoolsverse.com/tools/convert-bcd-to-decimal/)
 - [BCD to Octal Converter](https://alltoolsverse.com/tools/convert-bcd-to-octal/)

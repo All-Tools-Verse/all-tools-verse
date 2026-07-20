@@ -4,7 +4,7 @@
 
 [Browse this category on All Tools Verse](https://alltoolsverse.com/tool-category/health/) · [Back to the category directory](README.md)
 
-> Generated from the live All Tools Verse API on 2026-07-18. Do not edit this list manually.
+> Generated from the live All Tools Verse API on 2026-07-20. Do not edit this list manually.
 
 - [BMR Calculator - Daily Calorie Needs](https://alltoolsverse.com/tools/bmr-calculator/)
 - [Body Fat Calculator - US Navy Method](https://alltoolsverse.com/tools/body-fat-calculator/)

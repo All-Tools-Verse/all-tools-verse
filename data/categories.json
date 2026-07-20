@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18",
+  "generatedAt": "2026-07-20",
   "source": "https://alltoolsverse.com/wp-json/wp/v2/tool_category",
   "totalCategories": 23,
   "categories": [
@@ -43,10 +43,10 @@
       "id": 17,
       "name": "Developer",
       "slug": "developer",
-      "apiCount": 94,
+      "apiCount": 97,
       "url": "https://alltoolsverse.com/tool-category/developer/",
       "parent": 0,
-      "generatedCount": 94
+      "generatedCount": 97
     },
     {
       "id": 20,

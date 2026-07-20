@@ -26,7 +26,7 @@ All Tools Verse is a searchable library of browser-based utilities for images, d
 For client-side tools, your inputs stay in your browser. A specific tool may use server processing only when that behavior is clearly required and disclosed on its page.
 
 <!-- CATALOG_STATS:START -->
-**1,003 canonical live tools across 23 categories** · Catalog refreshed 2026-07-18
+**1,006 canonical live tools across 23 categories** · Catalog refreshed 2026-07-20
 <!-- CATALOG_STATS:END -->
 
 ## Explore by category
@@ -38,7 +38,7 @@ For client-side tools, your inputs stay in your browser. A specific tool may use
 | [Binary](catalog/binary.md) | 43 | [Open](https://alltoolsverse.com/tool-category/binary/) |
 | [Conversion](catalog/conversion.md) | 15 | [Open](https://alltoolsverse.com/tool-category/conversion/) |
 | [CSV](catalog/csv.md) | 26 | [Open](https://alltoolsverse.com/tool-category/csv/) |
-| [Developer](catalog/developer.md) | 94 | [Open](https://alltoolsverse.com/tool-category/developer/) |
+| [Developer](catalog/developer.md) | 97 | [Open](https://alltoolsverse.com/tool-category/developer/) |
 | [Document](catalog/document.md) | 51 | [Open](https://alltoolsverse.com/tool-category/document/) |
 | [Financial](catalog/financial.md) | 10 | [Open](https://alltoolsverse.com/tool-category/financial/) |
 | [Fractals](catalog/fractals.md) | 29 | [Open](https://alltoolsverse.com/tool-category/fractals/) |

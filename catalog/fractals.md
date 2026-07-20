@@ -4,7 +4,7 @@
 
 [Browse this category on All Tools Verse](https://alltoolsverse.com/tool-category/fractals/) · [Back to the category directory](README.md)
 
-> Generated from the live All Tools Verse API on 2026-07-18. Do not edit this list manually.
+> Generated from the live All Tools Verse API on 2026-07-20. Do not edit this list manually.
 
 - [Draw Canopy Fractal](https://alltoolsverse.com/tools/draw-canopy-fractal/)
 - [Draw Cantor Dust Fractal](https://alltoolsverse.com/tools/draw-cantor-dust-fractal/)

@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-18",
+  "generatedAt": "2026-07-20",
   "source": "https://alltoolsverse.com/tools/",
   "canonicalOnly": true,
   "canonicalSource": "https://alltoolsverse.com/sitemap_index.xml",
-  "sourceToolPosts": 1013,
+  "sourceToolPosts": 1016,
   "excludedNonCanonicalTools": 10,
-  "totalTools": 1003,
+  "totalTools": 1006,
   "totalCategories": 23,
   "tools": [
     {
@@ -337,6 +337,16 @@
         "time"
       ],
       "modified": "2026-06-15T14:28:51Z"
+    },
+    {
+      "id": 3302,
+      "name": "AI Token Counter",
+      "slug": "ai-token-counter",
+      "url": "https://alltoolsverse.com/tools/ai-token-counter/",
+      "categories": [
+        "developer"
+      ],
+      "modified": "2026-07-02T07:58:47Z"
     },
     {
       "id": 123,
@@ -7459,6 +7469,16 @@
       "modified": "2026-06-15T14:28:51Z"
     },
     {
+      "id": 3303,
+      "name": "LLM API Pricing Comparison",
+      "slug": "llm-pricing-comparison",
+      "url": "https://alltoolsverse.com/tools/llm-pricing-comparison/",
+      "categories": [
+        "developer"
+      ],
+      "modified": "2026-07-02T07:58:47Z"
+    },
+    {
       "id": 577,
       "name": "Loan Calculator - Payment and Interest",
       "slug": "loan-calculator",
@@ -9457,6 +9477,16 @@
         "math"
       ],
       "modified": "2026-06-03T08:43:07Z"
+    },
+    {
+      "id": 3304,
+      "name": "Tokens to Words Converter",
+      "slug": "tokens-to-words",
+      "url": "https://alltoolsverse.com/tools/tokens-to-words/",
+      "categories": [
+        "developer"
+      ],
+      "modified": "2026-07-02T07:58:47Z"
     },
     {
       "id": 1656,

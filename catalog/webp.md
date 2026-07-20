@@ -4,7 +4,7 @@
 
 [Browse this category on All Tools Verse](https://alltoolsverse.com/tool-category/webp/) · [Back to the category directory](README.md)
 
-> Generated from the live All Tools Verse API on 2026-07-18. Do not edit this list manually.
+> Generated from the live All Tools Verse API on 2026-07-20. Do not edit this list manually.
 
 - [Add Background to WebP - Fill Transparent Areas](https://alltoolsverse.com/tools/add-webp-background/)
 - [Add Border to WebP - Frame Your Image](https://alltoolsverse.com/tools/add-webp-border/)
