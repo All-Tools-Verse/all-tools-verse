@@ -26,7 +26,7 @@ All Tools Verse is a searchable library of browser-based utilities for images, d
 For client-side tools, your inputs stay in your browser. A specific tool may use server processing only when that behavior is clearly required and disclosed on its page.
 
 <!-- CATALOG_STATS:START -->
-**1,003 canonical live tools across 23 categories** · Catalog refreshed 2026-07-18
+**1,030 canonical live tools across 23 categories** · Catalog refreshed 2026-08-24
 <!-- CATALOG_STATS:END -->
 
 ## Explore by category
@@ -38,16 +38,16 @@ For client-side tools, your inputs stay in your browser. A specific tool may use
 | [Binary](catalog/binary.md) | 43 | [Open](https://alltoolsverse.com/tool-category/binary/) |
 | [Conversion](catalog/conversion.md) | 15 | [Open](https://alltoolsverse.com/tool-category/conversion/) |
 | [CSV](catalog/csv.md) | 26 | [Open](https://alltoolsverse.com/tool-category/csv/) |
-| [Developer](catalog/developer.md) | 94 | [Open](https://alltoolsverse.com/tool-category/developer/) |
+| [Developer](catalog/developer.md) | 97 | [Open](https://alltoolsverse.com/tool-category/developer/) |
 | [Document](catalog/document.md) | 51 | [Open](https://alltoolsverse.com/tool-category/document/) |
-| [Financial](catalog/financial.md) | 10 | [Open](https://alltoolsverse.com/tool-category/financial/) |
+| [Financial](catalog/financial.md) | 19 | [Open](https://alltoolsverse.com/tool-category/financial/) |
 | [Fractals](catalog/fractals.md) | 29 | [Open](https://alltoolsverse.com/tool-category/fractals/) |
 | [Generators](catalog/generators.md) | 36 | [Open](https://alltoolsverse.com/tool-category/generators/) |
-| [Health](catalog/health.md) | 5 | [Open](https://alltoolsverse.com/tool-category/health/) |
+| [Health](catalog/health.md) | 14 | [Open](https://alltoolsverse.com/tool-category/health/) |
 | [Hex](catalog/hex.md) | 36 | [Open](https://alltoolsverse.com/tool-category/hex/) |
 | [Image](catalog/image.md) | 139 | [Open](https://alltoolsverse.com/tool-category/image/) |
 | [JSON](catalog/json.md) | 24 | [Open](https://alltoolsverse.com/tool-category/json/) |
-| [Marketing](catalog/marketing.md) | 14 | [Open](https://alltoolsverse.com/tool-category/marketing/) |
+| [Marketing](catalog/marketing.md) | 20 | [Open](https://alltoolsverse.com/tool-category/marketing/) |
 | [Math](catalog/math.md) | 45 | [Open](https://alltoolsverse.com/tool-category/math/) |
 | [Number](catalog/number.md) | 84 | [Open](https://alltoolsverse.com/tool-category/number/) |
 | [Security](catalog/security.md) | 15 | [Open](https://alltoolsverse.com/tool-category/security/) |

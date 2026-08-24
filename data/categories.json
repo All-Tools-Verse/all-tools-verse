@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18",
+  "generatedAt": "2026-08-24",
   "source": "https://alltoolsverse.com/wp-json/wp/v2/tool_category",
   "totalCategories": 23,
   "categories": [
@@ -43,10 +43,10 @@
       "id": 17,
       "name": "Developer",
       "slug": "developer",
-      "apiCount": 94,
+      "apiCount": 97,
       "url": "https://alltoolsverse.com/tool-category/developer/",
       "parent": 0,
-      "generatedCount": 94
+      "generatedCount": 97
     },
     {
       "id": 20,
@@ -61,10 +61,10 @@
       "id": 68,
       "name": "Financial",
       "slug": "financial",
-      "apiCount": 10,
+      "apiCount": 19,
       "url": "https://alltoolsverse.com/tool-category/financial/",
       "parent": 0,
-      "generatedCount": 10
+      "generatedCount": 19
     },
     {
       "id": 83,
@@ -88,10 +88,10 @@
       "id": 69,
       "name": "Health",
       "slug": "health",
-      "apiCount": 5,
+      "apiCount": 14,
       "url": "https://alltoolsverse.com/tool-category/health/",
       "parent": 0,
-      "generatedCount": 5
+      "generatedCount": 14
     },
     {
       "id": 12,
@@ -124,10 +124,10 @@
       "id": 16,
       "name": "Marketing",
       "slug": "marketing",
-      "apiCount": 14,
+      "apiCount": 20,
       "url": "https://alltoolsverse.com/tool-category/marketing/",
       "parent": 0,
-      "generatedCount": 14
+      "generatedCount": 20
     },
     {
       "id": 21,

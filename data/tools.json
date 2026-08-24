@@ -1,13 +1,23 @@
 {
-  "generatedAt": "2026-07-18",
+  "generatedAt": "2026-08-24",
   "source": "https://alltoolsverse.com/tools/",
   "canonicalOnly": true,
   "canonicalSource": "https://alltoolsverse.com/sitemap_index.xml",
-  "sourceToolPosts": 1013,
+  "sourceToolPosts": 1040,
   "excludedNonCanonicalTools": 10,
-  "totalTools": 1003,
+  "totalTools": 1030,
   "totalCategories": 23,
   "tools": [
+    {
+      "id": 3312,
+      "name": "Ad Revenue Calculator",
+      "slug": "ad-revenue-calculator",
+      "url": "https://alltoolsverse.com/tools/ad-revenue-calculator/",
+      "categories": [
+        "marketing"
+      ],
+      "modified": "2026-07-02T09:19:14Z"
+    },
     {
       "id": 96,
       "name": "Add Background to Image",
@@ -337,6 +347,16 @@
         "time"
       ],
       "modified": "2026-06-15T14:28:51Z"
+    },
+    {
+      "id": 3302,
+      "name": "AI Token Counter",
+      "slug": "ai-token-counter",
+      "url": "https://alltoolsverse.com/tools/ai-token-counter/",
+      "categories": [
+        "developer"
+      ],
+      "modified": "2026-07-02T07:58:47Z"
     },
     {
       "id": 123,
@@ -1009,6 +1029,36 @@
       "modified": "2026-06-02T19:31:50Z"
     },
     {
+      "id": 3338,
+      "name": "Body Surface Area Calculator",
+      "slug": "body-surface-area-calculator",
+      "url": "https://alltoolsverse.com/tools/body-surface-area-calculator/",
+      "categories": [
+        "health"
+      ],
+      "modified": "2026-07-02T11:55:20Z"
+    },
+    {
+      "id": 3351,
+      "name": "Break-Even Calculator",
+      "slug": "break-even-calculator",
+      "url": "https://alltoolsverse.com/tools/break-even-calculator/",
+      "categories": [
+        "financial"
+      ],
+      "modified": "2026-07-02T12:24:38Z"
+    },
+    {
+      "id": 3348,
+      "name": "Budget Calculator",
+      "slug": "budget-calculator",
+      "url": "https://alltoolsverse.com/tools/budget-calculator/",
+      "categories": [
+        "financial"
+      ],
+      "modified": "2026-07-02T12:24:38Z"
+    },
+    {
       "id": 3289,
       "name": "Business Card Generator",
       "slug": "business-card-generator",
@@ -1309,6 +1359,16 @@
       "modified": "2026-05-24T11:00:43Z"
     },
     {
+      "id": 3350,
+      "name": "Car Affordability Calculator",
+      "slug": "car-affordability-calculator",
+      "url": "https://alltoolsverse.com/tools/car-affordability-calculator/",
+      "categories": [
+        "financial"
+      ],
+      "modified": "2026-07-02T12:24:38Z"
+    },
+    {
       "id": 195,
       "name": "Case Converter",
       "slug": "case-converter",
@@ -1317,6 +1377,16 @@
         "text"
       ],
       "modified": "2026-05-24T11:00:43Z"
+    },
+    {
+      "id": 3352,
+      "name": "CD Calculator",
+      "slug": "cd-calculator",
+      "url": "https://alltoolsverse.com/tools/cd-calculator/",
+      "categories": [
+        "financial"
+      ],
+      "modified": "2026-07-02T12:24:38Z"
     },
     {
       "id": 196,
@@ -5429,6 +5499,16 @@
       "modified": "2026-06-03T09:27:46Z"
     },
     {
+      "id": 3309,
+      "name": "Engagement Rate Calculator",
+      "slug": "engagement-rate-calculator",
+      "url": "https://alltoolsverse.com/tools/engagement-rate-calculator/",
+      "categories": [
+        "marketing"
+      ],
+      "modified": "2026-07-02T09:19:14Z"
+    },
+    {
       "id": 165,
       "name": "English to Braille Translator",
       "slug": "english-to-braille-translator",
@@ -6829,6 +6909,16 @@
       "modified": "2026-07-01T20:41:19Z"
     },
     {
+      "id": 3335,
+      "name": "Heart Rate Zone Calculator",
+      "slug": "heart-rate-zone-calculator",
+      "url": "https://alltoolsverse.com/tools/heart-rate-zone-calculator/",
+      "categories": [
+        "health"
+      ],
+      "modified": "2026-07-02T11:55:20Z"
+    },
+    {
       "id": 1683,
       "name": "Highlight JSON Syntax Online",
       "slug": "highlight-json",
@@ -6837,6 +6927,16 @@
         "json"
       ],
       "modified": "2026-06-15T14:28:21Z"
+    },
+    {
+      "id": 3321,
+      "name": "Home Affordability Calculator",
+      "slug": "home-affordability-calculator",
+      "url": "https://alltoolsverse.com/tools/home-affordability-calculator/",
+      "categories": [
+        "financial"
+      ],
+      "modified": "2026-07-02T10:38:14Z"
     },
     {
       "id": 640,
@@ -7027,6 +7127,16 @@
         "financial"
       ],
       "modified": "2026-06-06T10:48:02Z"
+    },
+    {
+      "id": 3311,
+      "name": "Influencer Rate Calculator",
+      "slug": "influencer-rate-calculator",
+      "url": "https://alltoolsverse.com/tools/influencer-rate-calculator/",
+      "categories": [
+        "marketing"
+      ],
+      "modified": "2026-07-02T09:19:14Z"
     },
     {
       "id": 1679,
@@ -7459,6 +7569,16 @@
       "modified": "2026-06-15T14:28:51Z"
     },
     {
+      "id": 3303,
+      "name": "LLM API Pricing Comparison",
+      "slug": "llm-pricing-comparison",
+      "url": "https://alltoolsverse.com/tools/llm-pricing-comparison/",
+      "categories": [
+        "developer"
+      ],
+      "modified": "2026-07-02T07:58:47Z"
+    },
+    {
       "id": 577,
       "name": "Loan Calculator - Payment and Interest",
       "slug": "loan-calculator",
@@ -7497,6 +7617,16 @@
         "developer"
       ],
       "modified": "2026-06-15T14:28:53Z"
+    },
+    {
+      "id": 3324,
+      "name": "Macro Calculator",
+      "slug": "macro-calculator",
+      "url": "https://alltoolsverse.com/tools/macro-calculator/",
+      "categories": [
+        "health"
+      ],
+      "modified": "2026-07-02T10:38:14Z"
     },
     {
       "id": 1604,
@@ -7789,6 +7919,16 @@
       "modified": "2026-06-15T14:28:22Z"
     },
     {
+      "id": 3347,
+      "name": "Net Worth Calculator",
+      "slug": "net-worth-calculator",
+      "url": "https://alltoolsverse.com/tools/net-worth-calculator/",
+      "categories": [
+        "financial"
+      ],
+      "modified": "2026-07-02T12:24:38Z"
+    },
+    {
       "id": 1659,
       "name": "Nginx Config Generator",
       "slug": "nginx-config-generator",
@@ -7859,6 +7999,16 @@
       "modified": "2026-06-15T14:28:35Z"
     },
     {
+      "id": 3325,
+      "name": "One Rep Max Calculator",
+      "slug": "one-rep-max-calculator",
+      "url": "https://alltoolsverse.com/tools/one-rep-max-calculator/",
+      "categories": [
+        "health"
+      ],
+      "modified": "2026-07-02T10:38:14Z"
+    },
+    {
       "id": 1642,
       "name": "Online Stopwatch",
       "slug": "stopwatch",
@@ -7917,6 +8067,16 @@
         "document"
       ],
       "modified": "2026-07-01T19:36:30Z"
+    },
+    {
+      "id": 3334,
+      "name": "Ovulation Calculator",
+      "slug": "ovulation-calculator",
+      "url": "https://alltoolsverse.com/tools/ovulation-calculator/",
+      "categories": [
+        "health"
+      ],
+      "modified": "2026-07-02T11:55:20Z"
     },
     {
       "id": 650,
@@ -8117,6 +8277,16 @@
         "conversion"
       ],
       "modified": "2026-06-03T09:28:08Z"
+    },
+    {
+      "id": 3333,
+      "name": "Pregnancy Due Date Calculator",
+      "slug": "pregnancy-due-date-calculator",
+      "url": "https://alltoolsverse.com/tools/pregnancy-due-date-calculator/",
+      "categories": [
+        "health"
+      ],
+      "modified": "2026-07-02T11:55:20Z"
     },
     {
       "id": 1782,
@@ -8427,6 +8597,16 @@
         "text"
       ],
       "modified": "2026-06-15T14:28:51Z"
+    },
+    {
+      "id": 3349,
+      "name": "Rent vs Buy Calculator",
+      "slug": "rent-vs-buy-calculator",
+      "url": "https://alltoolsverse.com/tools/rent-vs-buy-calculator/",
+      "categories": [
+        "financial"
+      ],
+      "modified": "2026-07-02T12:24:38Z"
     },
     {
       "id": 1767,
@@ -8759,6 +8939,16 @@
       "modified": "2026-06-02T19:02:57Z"
     },
     {
+      "id": 3320,
+      "name": "Savings Goal Calculator",
+      "slug": "savings-goal-calculator",
+      "url": "https://alltoolsverse.com/tools/savings-goal-calculator/",
+      "categories": [
+        "financial"
+      ],
+      "modified": "2026-07-02T10:38:14Z"
+    },
+    {
       "id": 166,
       "name": "Schema Markup Extractor",
       "slug": "schema-markup-extractor",
@@ -8957,6 +9147,16 @@
         "document"
       ],
       "modified": "2026-07-01T22:32:57Z"
+    },
+    {
+      "id": 3322,
+      "name": "Simple Interest Calculator",
+      "slug": "simple-interest-calculator",
+      "url": "https://alltoolsverse.com/tools/simple-interest-calculator/",
+      "categories": [
+        "financial"
+      ],
+      "modified": "2026-07-02T10:38:14Z"
     },
     {
       "id": 1598,
@@ -9309,6 +9509,16 @@
       "modified": "2026-06-15T14:28:51Z"
     },
     {
+      "id": 3313,
+      "name": "Subscriber Growth Calculator",
+      "slug": "subscriber-growth-calculator",
+      "url": "https://alltoolsverse.com/tools/subscriber-growth-calculator/",
+      "categories": [
+        "marketing"
+      ],
+      "modified": "2026-07-02T09:19:14Z"
+    },
+    {
       "id": 1482,
       "name": "Subtract Binary Numbers",
       "slug": "subtract-binary-numbers",
@@ -9347,6 +9557,16 @@
         "developer"
       ],
       "modified": "2026-06-15T14:28:53Z"
+    },
+    {
+      "id": 3336,
+      "name": "TDEE Calculator",
+      "slug": "tdee-calculator",
+      "url": "https://alltoolsverse.com/tools/tdee-calculator/",
+      "categories": [
+        "health"
+      ],
+      "modified": "2026-07-02T11:55:20Z"
     },
     {
       "id": 631,
@@ -9419,6 +9639,16 @@
       "modified": "2026-06-15T14:28:35Z"
     },
     {
+      "id": 3310,
+      "name": "TikTok Money Calculator",
+      "slug": "tiktok-money-calculator",
+      "url": "https://alltoolsverse.com/tools/tiktok-money-calculator/",
+      "categories": [
+        "marketing"
+      ],
+      "modified": "2026-07-02T09:19:14Z"
+    },
+    {
       "id": 635,
       "name": "Time Converter - Seconds, Minutes, Hours, Days",
       "slug": "time-converter",
@@ -9457,6 +9687,16 @@
         "math"
       ],
       "modified": "2026-06-03T08:43:07Z"
+    },
+    {
+      "id": 3304,
+      "name": "Tokens to Words Converter",
+      "slug": "tokens-to-words",
+      "url": "https://alltoolsverse.com/tools/tokens-to-words/",
+      "categories": [
+        "developer"
+      ],
+      "modified": "2026-07-02T07:58:47Z"
     },
     {
       "id": 1656,
@@ -9789,6 +10029,26 @@
       "modified": "2026-06-15T14:28:34Z"
     },
     {
+      "id": 3337,
+      "name": "Waist to Hip Ratio Calculator",
+      "slug": "waist-to-hip-ratio-calculator",
+      "url": "https://alltoolsverse.com/tools/waist-to-hip-ratio-calculator/",
+      "categories": [
+        "health"
+      ],
+      "modified": "2026-07-02T11:55:20Z"
+    },
+    {
+      "id": 3323,
+      "name": "Water Intake Calculator",
+      "slug": "water-intake-calculator",
+      "url": "https://alltoolsverse.com/tools/water-intake-calculator/",
+      "categories": [
+        "health"
+      ],
+      "modified": "2026-07-02T10:38:14Z"
+    },
+    {
       "id": 3250,
       "name": "Watermark PDF",
       "slug": "watermark-pdf",
@@ -10007,6 +10267,16 @@
         "document"
       ],
       "modified": "2026-06-15T14:28:43Z"
+    },
+    {
+      "id": 3308,
+      "name": "YouTube Money Calculator",
+      "slug": "youtube-money-calculator",
+      "url": "https://alltoolsverse.com/tools/youtube-money-calculator/",
+      "categories": [
+        "marketing"
+      ],
+      "modified": "2026-07-02T09:19:14Z"
     },
     {
       "id": 1566,
